@@ -17,7 +17,7 @@ bool InitSDL();
 void CLoseSDL();
 bool Update();
 void Render();
-SDL_Texture* LoadTextureFromFile(string path);
+//SDL_Texture* LoadTextureFromFile(string path);
 //void FreeTexture();
 
 int main(int argc, char* args[])
